@@ -27,7 +27,7 @@ const questions = [
         ]
     },
     {
-        question: "Which is the largest animal in the India ?",
+        question: "Which is the smallest animal in the India ?",
         answers: [
             { text: "Octopus", correct: false },
             { text: "Gold fish", correct: false },
